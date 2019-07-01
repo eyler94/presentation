@@ -2,7 +2,7 @@
 Collection of short scripts used for a presentation on unit testing.
 
 _________________________________________________________
-********************Python testing***********************
+********************Python testing********************
 _________________________________________________________
 
 To run the pytest module,use the following command:
@@ -27,5 +27,5 @@ $python3 test_dice.py -v
 Unittest runs with python3 and python.... If you are unfortunate enough to still be using python2... I'm sorry.
 
 _________________________________________________________
-********************C++ testing***********************
+********************C++ testing********************
 _________________________________________________________
