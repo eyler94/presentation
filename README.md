@@ -24,7 +24,7 @@ For example:
 
 $python3 test_dice.py -v
 
-Unittest runs with python3 and python.... If you are unfortunate enough to still be using python2... I'm sorry.
+Unittest runs with python3 and python.... If you are unfortunate enough to still be using python2... I'm sorry... haha, jk.
 
 _________________________________________________________
 ********************C++ testing********************
