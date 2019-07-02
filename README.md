@@ -39,4 +39,5 @@ $./ModuleName
 For example:
 
 $make
+
 $./TestDice
