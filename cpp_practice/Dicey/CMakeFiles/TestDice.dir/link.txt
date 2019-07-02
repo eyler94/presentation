@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/TestDice.dir/test_dice.cpp.o  -o TestDice /usr/lib/libgtest.a -lpthread 

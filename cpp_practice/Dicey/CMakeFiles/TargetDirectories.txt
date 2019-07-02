@@ -1,0 +1,3 @@
+/home/michael/research/presentation/cpp_practice/Dicey/CMakeFiles/rebuild_cache.dir
+/home/michael/research/presentation/cpp_practice/Dicey/CMakeFiles/TestDice.dir
+/home/michael/research/presentation/cpp_practice/Dicey/CMakeFiles/edit_cache.dir

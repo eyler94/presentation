@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michael/research/presentation/cpp_practice/Dicey/dice.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+typeinfo
+-
+
+/home/michael/research/presentation/cpp_practice/Dicey/test_dice.cpp
+dice.cpp
+/home/michael/research/presentation/cpp_practice/Dicey/dice.cpp
+gtest/gtest.h
+-
+iostream
+-
+string
+-
+stdlib.h
+-
+
