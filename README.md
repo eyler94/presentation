@@ -24,8 +24,20 @@ For example:
 
 $python3 test_dice.py -v
 
-Unittest runs with python3 and python.... If you are unfortunate enough to still be using python2... I'm sorry.
+Unittest runs with python3 and python.... If you are unfortunate enough to still be using python2... I'm sorry... haha, jk.
 
 _________________________________________________________
 ********************C++ testing********************
 _________________________________________________________
+
+Ensure your CMakelists.txt is setup correctly (I followed an introductory example at https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/.)
+
+After editing your file, run make, and then run the executable.
+
+$./ModuleName
+
+For example:
+
+$make
+
+$./TestDice
