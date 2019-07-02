@@ -29,3 +29,14 @@ Unittest runs with python3 and python.... If you are unfortunate enough to still
 _________________________________________________________
 ********************C++ testing********************
 _________________________________________________________
+
+Ensure your CMakelists.txt is setup correctly (I followed an introductory example at https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/.)
+
+After editing your file, run make, and then run the executable.
+
+$./ModuleName
+
+For example:
+
+$make
+$./TestDice
