@@ -1,0 +1,3 @@
+/home/michael/research/presentation/cpp_practice/gtest_practice/CMakeFiles/rebuild_cache.dir
+/home/michael/research/presentation/cpp_practice/gtest_practice/CMakeFiles/TestDice.dir
+/home/michael/research/presentation/cpp_practice/gtest_practice/CMakeFiles/edit_cache.dir

@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION <YourMostRecentVersion>)
+
+# Locate GTest
+find_package(GTest REQUIRED)
+include_directories(${GTEST_INCLUDE_DIRS})
+
+# Link Your Module with what we want to test and the GTest and pthread library
+add_executable(<TestModuleName> <Test_ModuleName>.cpp)
+target_link_libraries(<TestModuleName> ${GTEST_LIBRARIES} pthread)
